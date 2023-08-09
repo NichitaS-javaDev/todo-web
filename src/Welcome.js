@@ -3,7 +3,6 @@ import logo from './images/logo.png'
 import welcome_left from './images/welcome-left.png'
 import welcome_right from './images/welcome-right.png'
 
-
 function Welcome() {
     return (
         <div className={'centered-container'}>
